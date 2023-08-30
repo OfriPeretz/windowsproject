@@ -1,2 +1,1 @@
-# windowsproject
-Final network and cloud infrastructure management project on Windows Server 2022.
+[Final project Windows Server 2022.docx](https://github.com/OfriPeretz/windowsproject/files/12477145/Final.project.Windows.Server.2022.docx)
